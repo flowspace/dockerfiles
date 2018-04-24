@@ -1,4 +1,4 @@
-DockerFile for invoice ninja (https://www.invoiceninja.com/)
+DockerFile for Xolas PayMe (https://www.xolas.co/payme/)
 
 This image is based on `php:7.0-fpm` official version.
 
